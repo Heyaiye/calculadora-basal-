@@ -7,7 +7,7 @@ body{
 }
 div{
     
-    background-color: rgba(16, 169, 230, 0.63);
+    background-color: rgb(16, 169, 230);
     width: 50vw;
     height: 70vh;
     position: absolute;
