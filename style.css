@@ -28,7 +28,7 @@ body{
 }
 
 #detalle{
-    background: #FF416C;
+    background: #158392;
     /* Con estas 3 lineas vamos a hacer que los divs queden lado a lado */
     width: 50%;
     height: 100%;
@@ -55,11 +55,11 @@ button {
 	font-weight: bold;
 	padding: 12px 45px;
 	border-radius: 30px;
-	background-color: #FF416C;
-	border: 1px solid #FF416C;
+	background-color: #158392;
+	border: 1px solid #158392;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	letter-spacing: 1px;
+	letter-spacing: 2px;
 	transition: transform 20ms ease-in;
 }
 
@@ -67,16 +67,3 @@ button:active {
 	transform: scale(0.95);
 }
 
-#error{
-    color: red;
-    font-weight: bold;
-    display: none;
-}
-
-.resultado{
-    color: #0A81D1;
-    font-weight: bold;
-    font-size: 25px;
-    margin-bottom: 5px;
-    display: none;
-}
